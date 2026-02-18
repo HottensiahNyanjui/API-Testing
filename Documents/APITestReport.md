@@ -22,6 +22,9 @@
 
 1. Token generation – valid and invalid 
    ![Generate Token Valid](../Screenshots/SuccessfulAuthenticationTokenGeneration.png)
+    
+    - Token generation – Invalid
+
    ![Generate Token Invalid](../Screenshots/LoginWithInvalidCredentials.png)
 
 2. Create Booking success 
@@ -34,8 +37,13 @@
    ![Delete Booking](../Screenshots/BookingDeletion.png)
 
 5. Error Scenarios
+    - Invalid Dates
    ![Invalid Dates](../Screenshots/AcceptsInvalidDates.png)
+
+    - Retrieve Non-Existent Booking
    ![Retrieve Non-Existent Booking](../Screenshots/RetrieveNonExistentBooking.png)
+
+    - Send malformed requests
    ![Null totalPrice](../Screenshots/AcceptsNullValue.png)
 
 
