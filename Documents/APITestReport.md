@@ -1,4 +1,4 @@
-# Triply API Assessment – Test Report
+# API Assessment – Test Report
 
 ## A. Test Cases Executed
 
