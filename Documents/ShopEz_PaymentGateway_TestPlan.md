@@ -1,7 +1,7 @@
 # ShopEz Payment Gateway – Test Plan
 
 **Prepared by:** Hottensiah Nyanjui 
-**Role:** Junior QA Engineer  
+**Role:** QA Engineer  
 
 ---
 
